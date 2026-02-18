@@ -18,4 +18,4 @@ def pregunta_01():
 
 
 if __name__ == "__main__":
-    print(pregunta_01())
+    print(pregunta_01("Hola mundo cruel!"))
